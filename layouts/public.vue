@@ -28,10 +28,10 @@ export default {
   data() {
     return {
       items: [
-         { title: 'Home', icon: 'home', url: '/' },
+         { title: 'Home', icon: 'home', url: '/login' },
          { title: 'table', icon: 'collections', url: '/table' },
          { title: 'search', icon: 'assignment_turned_in', url: '/search' },
-         { title: 'Logout', icon: 'lock', url: '/' },
+         
        ],
      }
   },
